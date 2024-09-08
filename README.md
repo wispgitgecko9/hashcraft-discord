@@ -23,7 +23,7 @@ Before compiling, make sure you have two files in the source folder: `db.env` an
 
 I have provided a `.env.example` file and a `db.env.example` file, to explain all the environment variables used.<br>
 The `.env` file contains the environment variables for the bot, while `db.env` contains environment variables for the bot's Database, which is MariaDB.<br>
-Make sure you create the environment variables file, otherwise the bot will refuse to start, and make sure you add the parameters EXACTLY as mentioned, or the bot may not work properly.
+Make sure you create the environment variables file, otherwise the bot will refuse to start, and make sure you add the parameters EXACTLY as mentioned, or the bot may not work properly. 
 
 
 # Build & Deploy Instructions (Linux):
